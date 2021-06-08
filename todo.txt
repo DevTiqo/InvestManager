@@ -1,0 +1,42 @@
+//TO-DO
+PYTHON
+
+Login
+Register
+
+Sports Forex Crypto Stocks  [Categories]
+
+Add Section Add Market 
+Football(EPL,Laliga,Ligue 1, Bundesliga, Uefa Champions league, Europa League,Countries),
+
+basketball(NBA),tennis(WTA,ATP),baseball(MLB),hockey(NHL)
+
+*Add sql files of all these sport stocks and allow user to add new ones
+
+User Preferences
+Select sports
+Select Odds range
+Select max stake
+Select Currency Add sign
+
+
+
+Add a trade 
+Match trade / Individual trade
+Select sport
+Select Market
+Select Total Odds
+Select no_of games
+Select stake
+
+
+Add result
+Mark as win/loss
+
+
+Statistics
+Show win/loss percentage
+Show win loss amount in selected currency
+show team win / loss value
+
+
